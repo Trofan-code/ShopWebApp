@@ -2,7 +2,7 @@
 
 namespace ShopWebApp.Migrations
 {
-    public partial class AddFullNameToUsersTable : Migration
+    public partial class addApplicationType : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
